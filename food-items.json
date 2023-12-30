@@ -1,0 +1,157 @@
+{
+    "items": [
+      {
+        "name": "Salmon",
+        "type": "Fish",
+        "health benefits": [
+          "Omega-3 fatty acids",
+          "Protein",
+          "Vitamin D"
+        ]
+      },
+      {
+        "name": "Chicken",
+        "type": "Poultry",
+        "health benefits": [
+          "Protein",
+          "B vitamins",
+          "Iron"
+        ]
+      },
+      {
+        "name": "Shrimp",
+        "type": "Seafood",
+        "health benefits": [
+          "Protein",
+          "Omega-3 fatty acids",
+          "Selenium"
+        ]
+      },
+      {
+        "name": "Beef",
+        "type": "Meat",
+        "health benefits": [
+          "Protein",
+          "Iron",
+          "Zinc"
+        ]
+      },
+      {
+        "name": "Eggs",
+        "type": "Dairy",
+        "health benefits": [
+          "Protein",
+          "Choline",
+          "Vitamin D"
+        ]
+      },
+      {
+        "name": "Yogurt",
+        "type": "Dairy",
+        "health benefits": [
+          "Protein",
+          "Calcium",
+          "Probiotics"
+        ]
+      },
+      {
+        "name": "Avocado",
+        "type": "Fruit",
+        "health benefits": [
+          "Healthy fats",
+          "Fiber",
+          "Potassium"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "type": "Fruit",
+        "health benefits": [
+          "Antioxidants",
+          "Fiber",
+          "Vitamin C"
+        ]
+      },
+      {
+        "name": "Tomatoes",
+        "type": "Vegetable",
+        "health benefits": [
+          "Lycopene",
+          "Vitamin C",
+          "Potassium"
+        ]
+      },
+      {
+        "name": "Broccoli",
+        "type": "Vegetable",
+        "health benefits": [
+          "Fiber",
+          "Vitamin C",
+          "Sulforaphane"
+        ]
+      },
+      {
+        "name": "Olive oil",
+        "type": "Fat",
+        "health benefits": [
+          "Healthy fats",
+          "Antioxidants",
+          "Anti-inflammatory"
+        ]
+      },
+      {
+        "name": "Nuts",
+        "type": "Snack",
+        "health benefits": [
+          "Healthy fats",
+          "Protein",
+          "Fiber"
+        ]
+      },
+      {
+        "name": "Seeds",
+        "type": "Snack",
+        "health benefits": [
+          "Healthy fats",
+          "Protein",
+          "Fiber"
+        ]
+      },
+      {
+        "name": "Whole grains",
+        "type": "Carbohydrate",
+        "health benefits": [
+          "Fiber",
+          "B vitamins",
+          "Minerals"
+        ]
+      },
+      {
+        "name": "Legumes",
+        "type": "Carbohydrate",
+        "health benefits": [
+          "Protein",
+          "Fiber",
+          "Iron"
+        ]
+      },
+      {
+        "name": "Fruit",
+        "type": "Carbohydrate",
+        "health benefits": [
+          "Fiber",
+          "Vitamins",
+          "Minerals"
+        ]
+      },
+      {
+        "name": "Vegetables",
+        "type": "Carbohydrate",
+        "health benefits": [
+          "Fiber",
+          "Vitamins",
+          "Minerals"
+        ]
+      }
+    ]
+  }
