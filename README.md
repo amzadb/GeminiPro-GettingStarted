@@ -4,4 +4,4 @@ Prerequisites:
 `
 pip install google-generativeai
 `
-Generate API Key [using ](https://makersuite.google.com/app/apikey)https://makersuite.google.com/app/apikey
+Generate API Key on (https://makersuite.google.com/app/apikey) Google AI Studio and save it .env file.
