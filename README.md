@@ -1,2 +1,6 @@
-# GeminiPro-GettingStarted
-Google GeminiPro Getting Started
+# Google GeminiPro Getting Started
+
+Prerequisites:
+`
+pip install google-generativeai
+`
