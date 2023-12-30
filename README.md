@@ -8,13 +8,13 @@ To setup the application, follow the steps given below:
 
 2. Install the required dependencies:
    ```
-  pip install google-generativeai
-  ```
+   pip install google-generativeai
+   ```
 
 3. Obtain an API key from Google AI Studio and add it to the `.env` file in the project directory.
-```commandline
-GOOGLE_API_KEY=your_openai_api_key
-```
+   ```
+   GOOGLE_API_KEY=your_google_api_key
+   ```
 
 ## Usage
 -----------
