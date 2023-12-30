@@ -1,7 +1,7 @@
 # Google GeminiPro Getting Started
 
-Prerequisites:
+##Prerequisites:
 `
 pip install google-generativeai
 `
-Generate API Key on (https://makersuite.google.com/app/apikey) Google AI Studio and save it .env file.
+##Generate API Key on Google AI Studio (https://makersuite.google.com/app/apikey) and save it .env file.
