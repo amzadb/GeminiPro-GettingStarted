@@ -32,11 +32,11 @@ model = genai.GenerativeModel('gemini-pro')
 # You can also stream the response as it is being generated, 
 # and the model will return chunks of the response as soon as they are generated.
 response = model.generate_content("What is the future of Generative AI?", stream=True)
-# for chunk in response:
-#     print(chunk.text)
-#     print("_"*80)
+for chunk in response:
+    print(chunk.text)
+    print("_"*80)
 # Where stream=True, the response.text returns an incomplete iteration error
-try:
-    response.text
-except Exception as e:
-    print(f"{type(e).__name__}: {e}")
+# try:
+#     response.text
+# except Exception as e:
+#     print(f"{type(e).__name__}: {e}")
