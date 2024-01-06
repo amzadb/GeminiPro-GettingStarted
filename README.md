@@ -8,6 +8,7 @@ To setup the application, follow the steps given below:
 
 2. Install the required dependencies:
    ```
+   pip install python-dotenv
    pip install google-generativeai
    ```
 
